@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+sqlalchemy>=2.0
+pyodbc
+groq
